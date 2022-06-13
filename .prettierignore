@@ -1,0 +1,10 @@
+node_modules
+img 
+artifacts
+cache
+coverage
+.env
+.*
+ReadMe.md
+coverage.json
+gasReporterOutput.json
